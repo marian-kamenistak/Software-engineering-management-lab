@@ -9,5 +9,5 @@
 - https://linearb.io/
 - https://lethain.com/
 - https://cutle.fish/
-- https://poddtoppen.se/
+- https://poddtoppen.se/, https://soundcloud.com/agileamped
 - medium.com and hbr.com with leadership tag
