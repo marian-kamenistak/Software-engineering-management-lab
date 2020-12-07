@@ -9,4 +9,5 @@
 - https://linearb.io/
 - https://lethain.com/
 - https://cutle.fish/
+- https://poddtoppen.se/
 - medium.com and hbr.com with leadership tag
