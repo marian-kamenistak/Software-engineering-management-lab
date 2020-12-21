@@ -10,4 +10,5 @@
 - https://lethain.com/
 - https://cutle.fish/
 - https://poddtoppen.se/, https://soundcloud.com/agileamped
+- subscribe to newsletters: oren@softwareleadweekly.com; kale@hackernewsletter.com; suraj@pointer.io
 - medium.com and hbr.com with leadership tag
