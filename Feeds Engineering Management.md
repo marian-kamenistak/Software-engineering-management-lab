@@ -1,14 +1,27 @@
 > Great people are active in self-learning.
 
-# Top Engineering management feeds
+# My Top Engineering management feeds
+## Top Blogs
 - https://www.platohq.com/blog
-- https://www.mironov.com/
 - https://marcusblankenship.com/
-- https://getnave.com/
 - https://softwareengineeringdaily.com/
 - https://linearb.io/
 - https://lethain.com/
+- https://getnave.com/
+- https://developers.mews.com/
 - https://cutle.fish/
-- https://poddtoppen.se/, https://soundcloud.com/agileamped
-- subscribe to newsletters: oren@softwareleadweekly.com; kale@hackernewsletter.com; suraj@pointer.io
-- medium.com and hbr.com with leadership tag
+- https://www.mironov.com/
+- https://notion.vc/resources/filter/theme/growing-leaders/
+## Top Podcasts 
+- https://marcusblankenship.com/category/podcast/
+- https://poddtoppen.se/
+- https://soundcloud.com/agileamped
+## Top Newsletters
+- https://softwareleadweekly.com
+- https://hackernewsletter.com
+- https://pointer.io
+## Top Subscribe to 
+- https://medium.com and https://hbr.com and adust your profile preference to 'leadership' and 'engineerign management' tag
+
+
+To get more experinced in Self-Learning, I recommend to read the Learn or Die blog: https://marian-kamenistak.medium.com/learn-or-die-176861f30d9e
