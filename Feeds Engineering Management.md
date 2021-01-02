@@ -5,7 +5,7 @@
 - https://www.platohq.com/blog
 - https://marcusblankenship.com/
 - https://softwareengineeringdaily.com/
-- https://linearb.io/
+- https://linearb.io/blog/
 - https://lethain.com/
 - https://firstround.com/
 - https://developers.mews.com/
