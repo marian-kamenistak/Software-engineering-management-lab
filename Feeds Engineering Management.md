@@ -7,7 +7,7 @@
 - https://softwareengineeringdaily.com/
 - https://linearb.io/
 - https://lethain.com/
-- https://getnave.com/
+- https://firstround.com/
 - https://developers.mews.com/
 - https://cutle.fish/
 - https://www.mironov.com/
