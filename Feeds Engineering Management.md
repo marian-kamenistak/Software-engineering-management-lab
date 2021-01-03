@@ -9,10 +9,11 @@
 - https://lethain.com/
 - https://firstround.com/
 - https://developers.mews.com/
+- https://www.patkua.com/blog/
+- https://leaddev.com/
+- https://notion.vc/resources/filter/theme/growing-leaders/
 - https://cutle.fish/
 - https://www.mironov.com/
-- https://www.patkua.com/blog/
-- https://notion.vc/resources/filter/theme/growing-leaders/
 ## Top Podcasts 
 - https://marcusblankenship.com/category/podcast/
 - https://poddtoppen.se/
