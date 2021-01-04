@@ -27,4 +27,4 @@
 - https://medium.com and https://hbr.com and adust your profile preference tags to #engineeringmanagement #engineeringleadership #learning #developer #continouslearning #softwaredevelopment #growthmindset  #leadership
 
 
-To get more experinced in Self-Learning, I recommend to read the Learn or Die blog: https://marian-kamenistak.medium.com/learn-or-die-176861f30d9e
+ > To make you expand your expertise and be a more effective leader, I recommend to read the Learn or Die blog: https://marian-kamenistak.medium.com/learn-or-die-176861f30d9e
