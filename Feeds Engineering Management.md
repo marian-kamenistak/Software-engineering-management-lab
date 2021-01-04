@@ -17,6 +17,7 @@
 ## Top Podcasts 
 - https://marcusblankenship.com/category/podcast/
 - https://poddtoppen.se/
+- https://codingsans.com/engineering-management-podcast
 - https://soundcloud.com/agileamped
 ## Top Newsletters
 - https://softwareleadweekly.com
