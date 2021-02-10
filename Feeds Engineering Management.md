@@ -17,6 +17,7 @@
 - https://www.mironov.com/
 ## Top Podcasts 
 - https://marcusblankenship.com/category/podcast/
+- https://www.fearless-product.com/fearless-product-leadership-podcast
 - https://poddtoppen.se/
 - https://codingsans.com/engineering-management-podcast
 - https://soundcloud.com/agileamped
