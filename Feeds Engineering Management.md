@@ -3,6 +3,7 @@
 # My Top Engineering management feeds
 ## Top Blogs
 - https://www.platohq.com/blog
+- https://codingsans.com/blog?category=6276518
 - https://marcusblankenship.com/
 - https://softwareengineeringdaily.com/
 - https://linearb.io/blog/
