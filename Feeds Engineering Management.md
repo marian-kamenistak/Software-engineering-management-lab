@@ -1,6 +1,6 @@
 > Great people are active in self-learning.
 
-[Knowldege share](https://images.unsplash.com/photo-1481697943534-ea55b5ce970b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1488&q=80)
+[Knowldege share](https://cdn.pixabay.com/photo/2017/08/06/21/41/dark-2596647_960_720.jpg)
 
 # My Top Engineering management feeds
 ## Top Blogs
