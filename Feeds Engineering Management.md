@@ -1,8 +1,8 @@
+# My Top Engineering management feeds
 > Great people are active in self-learning.
 
 ![Knowldege share](https://cdn.pixabay.com/photo/2017/08/06/21/41/dark-2596647_960_720.jpg)
 
-# My Top Engineering management feeds
 ## Top Blogs
 - https://www.platohq.com/blog
 - https://codingsans.com/blog?category=6276518
