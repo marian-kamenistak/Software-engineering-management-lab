@@ -24,6 +24,7 @@
 - https://poddtoppen.se/
 - https://codingsans.com/engineering-management-podcast
 - https://soundcloud.com/agileamped
+- Dev Interrupted: https://open.spotify.com/show/7icMkauSvLflWCpQrfafIv?si=I7RBTeSTSPueRt8NMZhDWA
 ## Top Newsletters
 - https://softwareleadweekly.com
 - https://hackernewsletter.com
