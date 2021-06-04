@@ -18,6 +18,7 @@
 - https://notion.vc/resources/filter/theme/growing-leaders/
 - https://cutle.fish/
 - https://www.mironov.com/
+- https://www.leadingagile.com/blog/
 ## Top Podcasts 
 - https://marcusblankenship.com/category/podcast/
 - https://www.fearless-product.com/fearless-product-leadership-podcast
