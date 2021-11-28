@@ -5,6 +5,7 @@
 
 ## Top Blogs
 - https://www.platohq.com/blog
+- https://www.rubick.com/
 - https://codingsans.com/blog?category=6276518
 - https://marcusblankenship.com/
 - https://softwareengineeringdaily.com/
@@ -32,6 +33,9 @@
 - https://pointer.io
 ## Top Subscribe to 
 - https://medium.com and https://hbr.com and adust your profile preference tags to #engineeringmanagement #engineeringleadership #learning #developer #continouslearning #softwaredevelopment #growthmindset  #leadership
+## Agility
+- https://dannorth.net/blog/
+- https://age-of-product.com/subscribe/
 
 
  > To make you expand your expertise and be a more effective leader, I recommend to read the Learn or Die blog: https://marian-kamenistak.medium.com/learn-or-die-176861f30d9e
