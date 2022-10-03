@@ -25,6 +25,7 @@ Great people are active in self-learning. I recommend reading the **[Learn or Di
 - https://www.mironov.com/
 - https://larahogan.me/blog
 - https://www.romanpichler.com/blog/
+- https://www.oneknightinproduct.com/
 
 ## Engineering leadership podcasts 
 - https://marcusblankenship.com/category/podcast/
