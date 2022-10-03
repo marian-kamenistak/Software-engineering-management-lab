@@ -1,5 +1,8 @@
 # My Top Engineering management feeds
 > Great people are active in self-learning.
+I recommend reading the **[Learn or Die blog post]([https://eff.org](https://marian-kamenistak.medium.com/learn-or-die-176861f30d9e)**.
+
+
 
 ![Knowldege share](https://cdn.pixabay.com/photo/2017/08/06/21/41/dark-2596647_960_720.jpg)
 
@@ -38,4 +41,3 @@
 - https://age-of-product.com/subscribe/
 
 
- > To make you expand your expertise and be a more effective leader, I recommend to read the Learn or Die blog: https://marian-kamenistak.medium.com/learn-or-die-176861f30d9e
