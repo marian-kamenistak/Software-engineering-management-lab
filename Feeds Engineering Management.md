@@ -1,7 +1,7 @@
 # My Top Engineering management feeds
 Great people are active in self-learning. I recommend reading the **[Learn or Die blog post](https://marian-kamenistak.medium.com/learn-or-die-176861f30d9e)**.
 
-![Knowldege share](https://cdn.pixabay.com/photo/2017/08/06/21/41/dark-2596647_960_720.jpg)
+![Knowldege share](https://miro.medium.com/max/720/1*uYT23q2S8VWOw_Rfd0Gz9w.png)
 
 ## Engineering leadership blogs
 - https://www.rubick.com/
