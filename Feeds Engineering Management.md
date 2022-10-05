@@ -22,6 +22,7 @@ Great people are active in self-learning. I recommend reading the **[Learn or Di
 
 ## Product leadership sources
 - https://cutle.fish/ or https://cutlefish.substack.com/
+- https://www.jpattonassociates.com/category/articles/
 - https://www.mironov.com/
 - https://larahogan.me/blog
 - https://www.romanpichler.com/blog/
