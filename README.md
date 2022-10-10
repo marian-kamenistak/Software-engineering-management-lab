@@ -2,6 +2,7 @@ I'm passionate about building products by enabling the talent around me.
 I have a mathematician mindset; I started coding at age 11. I moved from a dev role to a team lead to a principal architect. I naturally moved to management to gain a more significant impact through leadership. I've mentored 60+ engineering leaders across the globe.
 My principles: Transparency. Fairness. Consistency. Lead by example, walking the walk. Kaizen.
 
+- Site: https://www.kamenistak.com
 - See my profile: https://go.kamenistak.com/li
 - Expertise map: https://go.kamenistak.com/expertise
 - Engineering leadership mentoring: https://go.kamenistak.com/mentoring
