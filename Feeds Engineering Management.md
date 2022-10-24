@@ -26,6 +26,7 @@ Great people are active in self-learning. I recommend reading the **[Learn or Di
 - https://www.jpattonassociates.com/category/articles/
 - https://www.mironov.com/
 - https://larahogan.me/blog
+- https://www.departmentofproduct.com/
 - https://www.romanpichler.com/blog/
 - https://www.oneknightinproduct.com/
 
